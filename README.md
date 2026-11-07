@@ -1,6 +1,6 @@
-# Carlos Faria — Visel Digital
+# Carlos Faria | Visel Digital
 
-Desenvolvedor web full stack desde 2004. Crio sites WordPress, landing pages e sistemas sob medida para clínicas, advogados, contabilidades e empresas em todo o Brasil.
+Desenvolvedor web full stack desde 2004. Crio sites WordPress, landing pages, sistemas em Laravel e aplicações sob medida para clínicas, advogados, contabilidades e empresas em todo o Brasil.
 
 Atendimento direto comigo, do diagnóstico à entrega, com foco em performance, SEO técnico e código limpo.
 
@@ -12,8 +12,8 @@ Atendimento direto comigo, do diagnóstico à entrega, com foco em performance, 
 
 ## Stack
 
-**Web:** HTML, CSS, PHP, WordPress, SQL  
-**Back-end e desktop:** Java, Delphi, DataSnap  
+**Web:** HTML, CSS, PHP, WordPress, Laravel, SQL  
+**Back-end e desktop:** PHP/Laravel, Java, Delphi, DataSnap  
 **Banco de dados:** SQL Server, MySQL  
 **Mobile:** Java, Kotlin, Android
 
@@ -21,7 +21,7 @@ Atendimento direto comigo, do diagnóstico à entrega, com foco em performance, 
 
 - sites institucionais e landing pages;
 - WordPress com tema exclusivo e painel editável;
-- sistemas web e integrações;
+- sistemas web e APIs com Laravel;
 - aplicativos Android;
 - SEO técnico, performance e acessibilidade.
 
@@ -37,7 +37,6 @@ O código de projetos de clientes permanece privado, conforme contrato e confide
 ## Contato
 
 - Site: [viseldigital.com.br](https://viseldigital.com.br)
-- LinkedIn: [Carlos Regis Faria](https://www.linkedin.com/in/carlos-regis-faria-57b233135/)
 - E-mail: [projetos@viseldigital.com.br](mailto:projetos@viseldigital.com.br)
 
 ---
