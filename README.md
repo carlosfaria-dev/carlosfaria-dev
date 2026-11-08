@@ -45,3 +45,10 @@ O código de projetos de clientes permanece privado, conforme contrato e confide
 
 
 LinkedIn: [Carlos Faria | Visel Digital](https://www.linkedin.com/in/carlos-faria-visel/)
+
+
+## WP-CLI
+
+- manutenção, migração, backup, atualização e automação de rotinas em WordPress via WP-CLI;
+- diagnóstico de instalações, plugins, banco de dados e ambiente de hospedagem;
+- scripts para padronizar tarefas repetitivas com segurança.
