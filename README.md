@@ -27,10 +27,9 @@ Atendimento direto comigo, do diagnóstico à entrega, com foco em performance, 
 
 ## Projetos públicos
 
-Em preparação:
-
-- **Leitor de QR Code para Android**
-- **Gerador de recibos**
+- **[QRCode Visel](https://github.com/carlosfaria-dev/qrcode-visel)** — leitor de QR Code offline para Android, feito em Kotlin com ZXing, sem internet, sem anúncios e com apenas permissão de câmera.
+- **[Gerador de Recibos](https://github.com/carlosfaria-dev/gerador-recibo)** — sistema desktop em Java e JavaFX para gestão de clientes e emissão de recibos em PDF, com SQLite.
+- **[Cursor Skill: Git Publish](https://github.com/carlosfaria-dev/cursor-skill-git-publish)** — skill para agentes publicarem projetos locais no GitHub com segurança, via SSH, branch de revisão e proteção contra secrets.
 
 O código de projetos de clientes permanece privado, conforme contrato e confidencialidade.
 
