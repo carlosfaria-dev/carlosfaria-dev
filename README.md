@@ -36,6 +36,7 @@ O código de projetos de clientes permanece privado, conforme contrato e confide
 ## Contato
 
 - Site: [viseldigital.com.br](https://viseldigital.com.br)
+- LinkedIn: [Carlos Faria | Visel Digital](https://www.linkedin.com/in/carlos-faria-visel/)
 - E-mail: [projetos@viseldigital.com.br](mailto:projetos@viseldigital.com.br)
 
 ---
