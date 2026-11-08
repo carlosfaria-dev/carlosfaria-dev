@@ -42,3 +42,6 @@ O código de projetos de clientes permanece privado, conforme contrato e confide
 ---
 
 **Visel Digital** — estúdio independente de desenvolvimento web.
+
+
+LinkedIn: [Carlos Faria | Visel Digital](https://www.linkedin.com/in/carlos-faria-visel/)
